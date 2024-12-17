@@ -2,6 +2,7 @@
 # Copyright (c) 2020 The Toltec Contributors
 # SPDX-License-Identifier: MIT
 
+archs=(rmallos3)
 pkgnames=(keyd)
 pkgdesc="A key remapping daemon for linux"
 url="https://github.com/rvaiya/keyd"
